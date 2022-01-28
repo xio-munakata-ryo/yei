@@ -2,6 +2,7 @@
 
 void main(arg**){
 while(){
-	baka
+	GreatTensai
+
 }
 }
