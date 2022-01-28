@@ -3,5 +3,6 @@
 void main(arg**){
 while(){
 	GreatTensai
+
 }
 }
