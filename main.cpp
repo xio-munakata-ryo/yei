@@ -2,6 +2,6 @@
 
 void main(arg**){
 while(){
-	GreatBaka
+	GreatTensai
 }
 }
